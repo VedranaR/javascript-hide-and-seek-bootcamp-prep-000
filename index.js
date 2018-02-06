@@ -1,4 +1,4 @@
-var selector = "";
+var selector = "div";
 
 function getFirstSelector(selector){
   var sel = document.querySelector('selector');
