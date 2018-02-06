@@ -1,3 +1,6 @@
+
+
 function getFirstSelector(selector){
-  document.querySelector('selector');
+  var sel = document.querySelector('selector');
+  return sel;
 }
