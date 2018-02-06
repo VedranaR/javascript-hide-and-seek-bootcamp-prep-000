@@ -1,6 +1,6 @@
-var selector = "div";
+
 
 function getFirstSelector(selector){
-  var sel = document.querySelector('selector');
+  var sel = document.querySelector('selector').id;
   return sel;
 }
